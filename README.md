@@ -204,7 +204,7 @@ A comprehensive web-based clinic management system built with PHP and MySQL, des
 
 ## Support
 
-For support and queries, please contact [your-email@example.com]
+For support and queries, please contact [sahilbhai1875@gmail.com]
 
 ## License
 
